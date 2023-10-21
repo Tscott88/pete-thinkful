@@ -89,3 +89,8 @@ hr {
 ul, ol {
   text-align: left;
 }
+
+footer {
+  margin: auto;
+  text-align: center;
+}
