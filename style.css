@@ -90,6 +90,7 @@ ul, ol {
   text-align: left;
 }
 
-footer {
+footer p {
   text-align: center;
+  margin: auto;
 }
